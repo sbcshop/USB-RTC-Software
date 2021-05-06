@@ -31,4 +31,4 @@ For Example : ``` bus.write_byte_data(0x68, 0x00, 0x02) # set seconds and start 
 
     ```python Celsius = getTemp(address)
        Fahrenheit = 9.0/5.0 * Celsius + 32
-       print (Fahrenheit, "*F /", Celsius, "*C") ```
+       print (Fahrenheit, "*F /", Celsius, "*C") 

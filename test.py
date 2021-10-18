@@ -4,7 +4,7 @@ from PyMCP2221A import SMBus
 
 import time
  
-address = 0x68
+address = 0x68  #i2c address of DS3231
 register = 0x00
 CONV = 32
 

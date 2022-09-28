@@ -16,9 +16,9 @@ USB RTC is an open source real time clock device that comprises MCP2221, a USB-t
 
 ``` cd USB-RTC ```
 
-* Now run test.py file by running below command:
+* Now run test.py file by running below command(Note : sudo is add before run the file):
 
-```sudo python3 test.py ```
+**```sudo python3 test.py ```**
 
 ### Installation on Windows
 

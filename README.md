@@ -37,7 +37,7 @@ USB RTC is an open source real time clock device that comprises MCP2221, a USB-t
 
 * Now open and run test.py file by running below command:
 
-```sudo python3 test.py ``` or directly run test.py in any python supported ide.
+```python3 test.py ``` or directly run test.py in any python supported idle.
 
 ### Functions
 

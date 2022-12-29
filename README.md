@@ -1,6 +1,6 @@
 # USB-RTC
 
-<img src ="https://cdn.shopify.com/s/files/1/1217/2104/products/2_ad2ee31c-71ef-44dc-82d0-986541b065e5.jpg?v=1665636610&width=600" />
+<img src ="https://cdn.shopify.com/s/files/1/1217/2104/files/USB_RTC_8549f019-f1f0-415a-afa3-d2273adb42be.png?v=1669091063" />
 
 USB RTC is an open source real time clock device that comprises MCP2221, a USB-to-UART/I2C serial converter, which enables USB connectivity, in the processes that include a USB, UART(Serial), GPIO, and I2C interfaces. 
 

@@ -4,7 +4,7 @@
 
 USB RTC is an open source real time clock device that comprises MCP2221, a USB-to-UART/I2C serial converter, which enables USB connectivity, in the processes that include a USB, UART(Serial), GPIO, and I2C interfaces. 
 
-### Installation on Raspberry Pi
+## Installation on Raspberry Pi
 
 * Install MCP2221 Library by running below command on terminal:
 
@@ -15,15 +15,15 @@ USB RTC is an open source real time clock device that comprises MCP2221, a USB-t
 
 ```git clone https://github.com/sbcshop/USB-RTC-software.git ```
 
-* Now enter downloaded folder from home/pi or by running below command:
+* Now, open downloaded folder from home/pi or by running below command:
 
-``` cd USB-RTC ```
+``` cd USB-RTC-software ```
 
-* Now run test.py file by running below command(Note : sudo is add before run the file):
+* Now run test.py file by running below command(Note : sudo should be added before running the file):
 
 **```sudo python3 test.py ```**
 
-### Installation on Windows
+## Installation on Windows
 
 * Install MCP2221 Library by running below command on terminal:
 
@@ -35,14 +35,13 @@ USB RTC is an open source real time clock device that comprises MCP2221, a USB-t
 
 ```git clone https://github.com/sbcshop/USB-RTC.git ```
 
-* By running above command a folder (USB-RTC-software) of this repository will be download in your raspberry Pi
+* By running above command a folder (USB-RTC-software) of this repository will be download in your System.
 
+* Now open the downloaded foledr and run test.py file by running below command:
 
-* Now open and run test.py file by running below command:
+```python3 test.py ``` or directly run test.py in any python supported IDE (like Thonny).
 
-```python3 test.py ``` or directly run test.py in any python supported idle.
-
-### Functions
+## Functions
 
 * To modify Date & Time, you have to change the last value of each line in hexadecimal form inside ```def SetTime(address):```
 

@@ -54,16 +54,6 @@ For Example : ``` bus.write_byte_data(0x68, 0x00, 0x02) # set seconds and start 
        Fahrenheit = 9.0/5.0 * Celsius + 32
        print (Fahrenheit, "*F /", Celsius, "*C") 
        
-## Documentation
-
-* [EncroPi Hardware](https://github.com/sbcshop/EncroPi-Hardware)
-* [RaspberryPi PICO Getting Started with Micropython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
-* [RaspberryPi PICO Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
-* [RP2040 Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)
-* [Raspberry Pi Pico Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
-* [RP2040 Hardware Design](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
-* [Raspberry Pi Pico Pinout](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
-
 ## Related Products
 
 * [SquaryPi](https://shop.sb-components.co.uk/products/squary?variant=40443840921683)

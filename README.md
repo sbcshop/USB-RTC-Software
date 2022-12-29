@@ -13,11 +13,11 @@ USB RTC is an open source real time clock device that comprises MCP2221, a USB-t
 * Connect USB-RTC on USB Port of Raspberry Pi.
 * Now clone/download USB-RTC Github Repository by running below command:
 
-```git clone https://github.com/sbcshop/USB-RTC-software.git ```
+```git clone https://github.com/sbcshop/USB-RTC-Software.git ```
 
 * Now, open downloaded folder from home/pi or by running below command:
 
-``` cd USB-RTC-software ```
+``` cd USB-RTC-Software/Examples ```
 
 * Now run test.py file by running below command(Note : sudo should be added before running the file):
 
@@ -31,11 +31,11 @@ USB RTC is an open source real time clock device that comprises MCP2221, a USB-t
               
 * Connect USB-RTC on USB Port of Windows USB Port.
 
-* Now clone/download USB-RTC Github Repository by running below command:
+* Now clone/download USB-RTC-Software Github Repository by running below command:
 
-```git clone https://github.com/sbcshop/USB-RTC.git ```
+```git clone https://github.com/sbcshop/USB-RTC-Software.git ```
 
-* By running above command a folder (USB-RTC-software) of this repository will be download in your System.
+* By running above command a folder (USB-RTC-Software) of this repository will be download in your System.
 
 * Now open the downloaded foledr and run test.py file by running below command:
 

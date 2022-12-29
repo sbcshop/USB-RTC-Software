@@ -70,9 +70,9 @@ For Example : ``` bus.write_byte_data(0x68, 0x00, 0x02) # set seconds and start 
 
  ![SquaryPi](https://cdn.shopify.com/s/files/1/1217/2104/products/1_5874b3b5-2a2f-453e-bf54-abbf2a26acb9.png?v=1670307456&width=400)
 
-* [USB RTC]()
+* [EncroPi](https://shop.sb-components.co.uk/products/encropi?_pos=1&_sid=95f822d26&_ss=r)
 
- ![EncroPi]()
+ ![EncroPi](https://cdn.shopify.com/s/files/1/1217/2104/products/03_a6b155c1-da03-427d-ba6a-44730c56d73f.png?v=1668595812&width=400)
 
 ## Product License
 
